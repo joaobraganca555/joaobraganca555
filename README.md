@@ -3,7 +3,19 @@
 </p>
 
 ## 👤 About Me
-Under construction...
+Hello, my name is João Bragança, and I'm a software/informatics engineering enthusiast with a strong academic background. I completed my bachelor's degree in this field, which equipped me with a solid foundation in technology. Currently, I'm furthering my education by pursuing a master's degree in the same area, where I'm eager to delve even deeper into the world of software development and informatics.
+
+For the past year, I've been fortunate to work as a frontend developer at DEUS.ai. This role has allowed me to put my knowledge into practice, honing my skills and gaining valuable industry experience. Prior to this, I had the opportunity to work as a full-stack developer for six months at NOS SGPS, working with a combination of technologies such as Angular, Node.js, and SQL. These experiences have enriched my skill set and expanded my expertise in web development.
+
+Despite my young age, at 21 years old, I approach my studies and work with a curious and critical spirit. I have a genuine enthusiasm for learning and problem-solving, always eager to explore new technologies and stay updated with the latest trends in the field. This drive fuels my passion for software engineering, motivating me to tackle challenges and innovate in my work.
+
+Furthermore, I believe in the importance of continuous improvement in all aspects of my life. Not only do I seek to enhance my technical skills, but I also strive to make a positive impact on the environment and within my team. Whether it's finding more sustainable practices in my daily routines or fostering a collaborative and supportive atmosphere among colleagues, I'm dedicated to creating a better world and a more productive work environment for everyone involved. This commitment to improvement extends beyond code and into the broader context of my professional and personal life.
+
+Helping others and continuous self-improvement are principles that I hold dear. I'm always ready to lend a hand, share my knowledge, and collaborate with colleagues and peers to achieve common goals.
+
+Currently residing in Porto, Portugal, I enjoy the flexibility of remote work, allowing me to balance my professional and personal life efficiently. Beyond my passion for technology, the gym plays a vital role in my daily routine, helping me maintain a healthy work-life balance and overall well-being.
+
+If you'd like to connect, collaborate, or discuss topics related to technology, fitness, or personal development, please don't hesitate to reach out. I'm always open to new opportunities and conversations.
 
 ## 🛠️ Experience With 
 <p>
