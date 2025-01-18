@@ -3,13 +3,13 @@
 </p>
 
 ## 👤 About Me
-Hello, my name is João Bragança, and I'm a software/informatics engineering enthusiast with a strong academic background. I completed my bachelor's degree in this field, which equipped me with a solid foundation in technology. Currently, I'm furthering my education by pursuing a master's degree in the same area, where I'm eager to delve even deeper into the world of software development and informatics.
+Hello, my name is João Bragança, and I'm a software engineering enthusiast with a strong academic background. I completed my bachelor's and master's degree in this field, which equipped me with a solid foundation in technology.
 
 For the past year, I've been fortunate to work as a frontend developer at DEUS.ai. This role has allowed me to put my knowledge into practice, honing my skills and gaining valuable industry experience. Prior to this, I had the opportunity to work as a full-stack developer for six months at NOS SGPS, working with a combination of technologies such as Angular, Node.js, and SQL. These experiences have enriched my skill set and expanded my expertise in web development.
 
-Despite my young age, at 21 years old, I approach my studies and work with a curious and critical spirit. I have a genuine enthusiasm for learning and problem-solving, always eager to explore new technologies and stay updated with the latest trends in the field. This drive fuels my passion for software engineering, motivating me to tackle challenges and innovate in my work.
+Despite my young age, at 23 years old, I approach my studies and work with a curious and critical spirit. I have a genuine enthusiasm for learning and problem-solving, always eager to explore new technologies and stay updated with the latest trends in the field. This drive fuels my passion for software engineering, motivating me to tackle challenges and innovate in my work.
 
-Furthermore, I believe in the importance of continuous improvement in all aspects of my life. Not only do I seek to enhance my technical skills, but I also strive to make a positive impact on the environment and within my team. Whether it's finding more sustainable practices in my daily routines or fostering a collaborative and supportive atmosphere among colleagues, I'm dedicated to creating a better world and a more productive work environment for everyone involved. This commitment to improvement extends beyond code and into the broader context of my professional and personal life.
+Furthermore, I believe in the importance of continuous improvement in all aspects of my life. Not only do I seek to enhance my technical skills, but I also strive to make a positive impact on the environment and within my team. Whether it's finding more sustainable practices in my daily routines or fostering a collaborative and supportive atmosphere among colleagues, I'm dedicated to creating a better world and a more productive work environment for everyone involved.
 
 Helping others and continuous self-improvement are principles that I hold dear. I'm always ready to lend a hand, share my knowledge, and collaborate with colleagues and peers to achieve common goals.
 
@@ -24,8 +24,8 @@ If you'd like to connect, collaborate, or discuss topics related to technology, 
     Frontend
   </h3>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://camo.githubusercontent.com/50accfd2e987483f6a62dc25f6412ac102cd52f7e699370743fe7dd6d8c99567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526561637425323051756572792d4646343135343f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742532307175657279266c6f676f436f6c6f723d7768697465" alt="React Query" data-canonical-src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&amp;logo=react%20query&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
