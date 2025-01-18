@@ -86,11 +86,10 @@ If you'd like to connect, collaborate, or discuss topics related to technology, 
   <a href="https://dreadsec.me/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=joaobraganca555&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
 <!--     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaobraganca555&theme=gruvbox&hide_border=true">		   -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobraganca555&show_icons=true&locale=en&layout=compact" alt="joaobraganca" />
   </a>
 </p>
 <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobraganca555&show_icons=true&locale=en&layout=compact" alt="joaobraganca" /></p>
 
 <!---
 joaobraganca555/joaobraganca555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
